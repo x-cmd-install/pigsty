@@ -5,7 +5,7 @@ about:
   head: 745a4ea
   archived: false
   latestVersion: "v4.5.0"
-  collectedAt: 2026-09-07T06:04:04Z
+  collectedAt: 2026-09-07T18:24:50Z
 timeline:
   created: 2020-06-02
   lastCommit: 2026-09-07
@@ -89,7 +89,7 @@ total:
   commit: 3895
 ---
 path: /home/runner/.x-repo/github.com/Vonng/pigsty
-collectedAt: 2026-09-07T06:04:14Z
+collectedAt: 2026-09-07T18:24:59Z
 loc:
   Json:
     code: 106982
@@ -200,7 +200,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T06:04:15+00:00
+  collectedAt: 2026-09-07T18:25:00+00:00
   platform:
     darwin/arm64:
       name:  pigsty-pkg-v4.5.0.u26.aarch64.tgz
