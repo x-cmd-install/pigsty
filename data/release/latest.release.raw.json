@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 870,
       "digest": "sha256:508d724a1b15337db4bd9b387bf86e9bbbf5b3c0d12365624e4a8727510d165d",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-08-23T08:03:22Z",
       "updated_at": "2026-08-23T08:03:22Z",
       "browser_download_url": "https://github.com/pgsty/pigsty/releases/download/v4.5.0/checksums.asc"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 870,
       "digest": "sha256:bb37d9bcf72c6fdd2ad78a21e1674bec29a06a3bae5848c6db83f08e5756b756",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-08-14T16:37:09Z",
       "updated_at": "2026-08-14T16:37:09Z",
       "browser_download_url": "https://github.com/pgsty/pigsty/releases/download/v4.5.0/pigsty-pkg-v4.5.0.d12.aarch64.tgz.asc"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 1737990618,
       "digest": "sha256:5d88afde12a501ac2e7459a6d95a47d8f283860145235a1120d66655917858f8",
-      "download_count": 29,
+      "download_count": 31,
       "created_at": "2026-08-14T16:24:52Z",
       "updated_at": "2026-08-14T16:30:36Z",
       "browser_download_url": "https://github.com/pgsty/pigsty/releases/download/v4.5.0/pigsty-pkg-v4.5.0.d12.x86_64.tgz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 870,
       "digest": "sha256:041e9755fbfdc1ff296ef16683622504727b1514e06df0234f8f3b8f32b46851",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-08-14T16:37:09Z",
       "updated_at": "2026-08-14T16:37:09Z",
       "browser_download_url": "https://github.com/pgsty/pigsty/releases/download/v4.5.0/pigsty-pkg-v4.5.0.d12.x86_64.tgz.asc"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 870,
       "digest": "sha256:a3b8f759e080e1d653493c09ef958ea8155cd3afeb743ce835acfb0c5100d364",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-08-23T07:51:49Z",
       "updated_at": "2026-08-23T07:51:50Z",
       "browser_download_url": "https://github.com/pgsty/pigsty/releases/download/v4.5.0/pigsty-pkg-v4.5.0.d13.aarch64.tgz.asc"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 870,
       "digest": "sha256:553ec7971e5e52669aa57e94f86bb192a093b6078de5fe0fe5613506fc2f4321",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-08-14T16:37:09Z",
       "updated_at": "2026-08-14T16:37:10Z",
       "browser_download_url": "https://github.com/pgsty/pigsty/releases/download/v4.5.0/pigsty-pkg-v4.5.0.d13.x86_64.tgz.asc"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 1968845714,
       "digest": "sha256:ec6642444908d1acdb067ca946832978600e68ea92a5951c3ba6ed5d9e716c5e",
-      "download_count": 15,
+      "download_count": 16,
       "created_at": "2026-08-14T16:29:22Z",
       "updated_at": "2026-08-14T16:34:33Z",
       "browser_download_url": "https://github.com/pgsty/pigsty/releases/download/v4.5.0/pigsty-pkg-v4.5.0.u22.x86_64.tgz"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 1755330713,
       "digest": "sha256:625f9f606f13d06ee87d4473a408a4170a8de96a6c98b569f7908647e4111f67",
-      "download_count": 28,
+      "download_count": 29,
       "created_at": "2026-08-14T16:30:04Z",
       "updated_at": "2026-08-14T16:34:27Z",
       "browser_download_url": "https://github.com/pgsty/pigsty/releases/download/v4.5.0/pigsty-pkg-v4.5.0.u24.x86_64.tgz"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 1878146544,
       "digest": "sha256:1d6cbac50ef5034c3cfea0dd11c53ea1cf4b4b8b389086b1b8d735d8e1c0e122",
-      "download_count": 19,
+      "download_count": 20,
       "created_at": "2026-08-14T16:30:38Z",
       "updated_at": "2026-08-14T16:34:40Z",
       "browser_download_url": "https://github.com/pgsty/pigsty/releases/download/v4.5.0/pigsty-pkg-v4.5.0.u26.x86_64.tgz"
@@ -1147,7 +1147,7 @@
       "state": "uploaded",
       "size": 1808713,
       "digest": "sha256:64c272eb7bd125dadcac6ff453cd0d03e167974eaee94a52af19bd0988e3cbbc",
-      "download_count": 35,
+      "download_count": 36,
       "created_at": "2026-08-14T16:33:21Z",
       "updated_at": "2026-08-14T16:33:22Z",
       "browser_download_url": "https://github.com/pgsty/pigsty/releases/download/v4.5.0/pigsty-v4.5.0.tgz"
