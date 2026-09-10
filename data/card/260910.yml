@@ -7,7 +7,7 @@ about:
   latestVersion: "v4.5.0"
   latestRelease: "v4.5.0"
   latestPrerelease: "v0.8.0beta"
-  collectedAt: 2026-09-10T18:11:46Z
+  collectedAt: 2026-09-10T23:49:13Z
 timeline:
   created: 2020-06-02
   lastCommit: 2026-09-07
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-08-14
   lastPrerelease: 2021-03-18
 popularity:
-  star: 5609
+  star: 5610
   watcher: 59
   fork: 382
   release: 57
@@ -93,7 +93,7 @@ total:
   commit: 3895
 ---
 path: /home/runner/.x-repo/github.com/Vonng/pigsty
-collectedAt: 2026-09-10T18:11:59Z
+collectedAt: 2026-09-10T23:49:21Z
 loc:
   Json:
     code: 106982
