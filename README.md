@@ -4,7 +4,7 @@
 
 Enterprise-Grade OSS PostgreSQL Distribution with HA, PITR, IaC, Monitor, 12 kernel forks and 575 PG extensions. Best-of-breed products integrated as a platform. Self-host Postgres like a Pro!
 
-![pigsty](https://repo.x-cmd.io/pigsty.svg)
+[![x-cmd/install — pigsty Code Quality Monitoring Repo Card](https://repo.x-cmd.io/pigsty.svg)](https://x-cmd.com/install/pigsty)
 
 ## Install
 
@@ -38,7 +38,7 @@ Total: **170,350** lines of code across **548** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 5,652 · **Forks**: 383 · **Open issues**: 618 · **Contributors**: 21
+- **Stars**: 5,660 · **Forks**: 384 · **Open issues**: 618 · **Contributors**: 21
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **170,350** lines of code across **548** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 1 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-20 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-22 | 4 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-23 | 9 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-09-28 | 20 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-22 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-24 | 3 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-25 | 9 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-30 | 20 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -101,4 +101,4 @@ Install metadata for pigsty lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:25:27Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:34:12Z._
