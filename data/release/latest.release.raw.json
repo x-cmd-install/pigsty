@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 870,
       "digest": "sha256:508d724a1b15337db4bd9b387bf86e9bbbf5b3c0d12365624e4a8727510d165d",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-08-23T08:03:22Z",
       "updated_at": "2026-08-23T08:03:22Z",
       "browser_download_url": "https://github.com/pgsty/pigsty/releases/download/v4.5.0/checksums.asc"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 1827408343,
       "digest": "sha256:91b2a9ae80341e39c846a75c76e093cbfe52bcfb3fff8b2e4bef0fe9658a13f8",
-      "download_count": 14,
+      "download_count": 15,
       "created_at": "2026-08-14T16:24:52Z",
       "updated_at": "2026-08-14T16:30:01Z",
       "browser_download_url": "https://github.com/pgsty/pigsty/releases/download/v4.5.0/pigsty-pkg-v4.5.0.el9.aarch64.tgz"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 870,
       "digest": "sha256:34134581c8bb8e757cc6a89c84b4f095b00d81101f7318f7ad9652bd516a52dc",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-08-14T16:37:11Z",
       "updated_at": "2026-08-14T16:37:11Z",
       "browser_download_url": "https://github.com/pgsty/pigsty/releases/download/v4.5.0/pigsty-pkg-v4.5.0.u22.aarch64.tgz.asc"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 1968845714,
       "digest": "sha256:ec6642444908d1acdb067ca946832978600e68ea92a5951c3ba6ed5d9e716c5e",
-      "download_count": 42,
+      "download_count": 43,
       "created_at": "2026-08-14T16:29:22Z",
       "updated_at": "2026-08-14T16:34:33Z",
       "browser_download_url": "https://github.com/pgsty/pigsty/releases/download/v4.5.0/pigsty-pkg-v4.5.0.u22.x86_64.tgz"
@@ -1147,7 +1147,7 @@
       "state": "uploaded",
       "size": 1808713,
       "digest": "sha256:64c272eb7bd125dadcac6ff453cd0d03e167974eaee94a52af19bd0988e3cbbc",
-      "download_count": 66,
+      "download_count": 69,
       "created_at": "2026-08-14T16:33:21Z",
       "updated_at": "2026-08-14T16:33:22Z",
       "browser_download_url": "https://github.com/pgsty/pigsty/releases/download/v4.5.0/pigsty-v4.5.0.tgz"
