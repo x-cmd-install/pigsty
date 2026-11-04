@@ -14,15 +14,15 @@ x install pigsty
 
 ## Code insight
 
-Total: **170,350** lines of code across **548** files in the top 5 languages.
+Total: **174,143** lines of code across **560** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Json | 106,982 | 0 | 0 | 68 |
-| Yaml | 38,610 | 11,877 | 4,586 | 357 |
-| Bash | 6,371 | 2,212 | 1,184 | 72 |
-| Jinja2 | 5,934 | 0 | 743 | 43 |
-| Sql | 3,856 | 865 | 677 | 8 |
+| Json | 107,007 | 0 | 0 | 69 |
+| Yaml | 40,845 | 12,062 | 4,729 | 365 |
+| Bash | 6,370 | 2,215 | 1,186 | 72 |
+| Jinja2 | 5,945 | 0 | 744 | 44 |
+| Sql | 3,929 | 898 | 696 | 10 |
 
 ## Source
 
@@ -33,27 +33,27 @@ Total: **170,350** lines of code across **548** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v4.5.0` (2026-08-14)
-- **Last commit**: 2026-09-07
+- **Last commit**: 2026-11-03
 - **Assets in release**: 32
 
 ## Popularity
 
-- **Stars**: 5,886 · **Forks**: 396 · **Open issues**: 622 · **Contributors**: 21
+- **Stars**: 5,894 · **Forks**: 396 · **Open issues**: 622 · **Contributors**: 22
 
 ## Totals (cumulative)
 
-- **Releases**: 57 · **Merged PRs**: 61 · **Open PRs**: 11 · **Closed issues**: 596 · **Open issues**: 26 · **Commits**: 3895
+- **Releases**: 57 · **Merged PRs**: 63 · **Open PRs**: 9 · **Closed issues**: 597 · **Open issues**: 25 · **Commits**: 3956
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-04 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-05 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-07 | 2 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-08 | 9 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-13 | 19 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-05 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-05 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-06 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-08 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-09 | 9 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-14 | 19 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -101,4 +101,4 @@ Install metadata for pigsty lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T08:17:39Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T07:50:03Z._
