@@ -33,27 +33,27 @@ Total: **182,049** lines of code across **578** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v4.5.0` (2026-08-14)
-- **Last commit**: 2026-11-09
+- **Last commit**: 2026-11-10
 - **Assets in release**: 32
 
 ## Popularity
 
-- **Stars**: 5,926 · **Forks**: 400 · **Open issues**: 623 · **Contributors**: 22
+- **Stars**: 5,928 · **Forks**: 402 · **Open issues**: 623 · **Contributors**: 22
 
 ## Totals (cumulative)
 
-- **Releases**: 57 · **Merged PRs**: 66 · **Open PRs**: 10 · **Closed issues**: 606 · **Open issues**: 17 · **Commits**: 3991
+- **Releases**: 57 · **Merged PRs**: 67 · **Open PRs**: 9 · **Closed issues**: 606 · **Open issues**: 17 · **Commits**: 3993
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-12 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-14 | 2 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-15 | 9 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-20 | 19 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-13 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-15 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-16 | 9 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-21 | 19 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -101,4 +101,4 @@ Install metadata for pigsty lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T08:52:45Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T07:50:52Z._
