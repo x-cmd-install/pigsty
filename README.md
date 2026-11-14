@@ -38,7 +38,7 @@ Total: **182,400** lines of code across **574** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 5,936 · **Forks**: 402 · **Open issues**: 623 · **Contributors**: 22
+- **Stars**: 5,938 · **Forks**: 402 · **Open issues**: 623 · **Contributors**: 22
 
 ## Totals (cumulative)
 
@@ -48,36 +48,36 @@ Total: **182,400** lines of code across **574** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-14 | 1 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-15 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-17 | 3 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-18 | 10 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-23 | 19 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-15 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-15 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-16 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-18 | 3 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-19 | 10 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-24 | 19 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [pigsty-pkg-v4.6.0.el10.x86_64.tgz](https://github.com/Vonng/pigsty/releases/download/v4.6.0/pigsty-pkg-v4.6.0.el10.x86_64.tgz) | 1.9 GiB | `native/linux/x64` |
-| [pigsty-pkg-v4.6.0.el9.x86_64.tgz](https://github.com/Vonng/pigsty/releases/download/v4.6.0/pigsty-pkg-v4.6.0.el9.x86_64.tgz) | 1.9 GiB | `native/linux/x64` |
-| [pigsty-pkg-v4.6.0.el9.aarch64.tgz](https://github.com/Vonng/pigsty/releases/download/v4.6.0/pigsty-pkg-v4.6.0.el9.aarch64.tgz) | 1.8 GiB | `native/linux/arm64` |
-| [pigsty-pkg-v4.6.0.el10.aarch64.tgz](https://github.com/Vonng/pigsty/releases/download/v4.6.0/pigsty-pkg-v4.6.0.el10.aarch64.tgz) | 1.8 GiB | `native/linux/arm64` |
-| [pigsty-pkg-v4.6.0.d12.x86_64.tgz](https://github.com/Vonng/pigsty/releases/download/v4.6.0/pigsty-pkg-v4.6.0.d12.x86_64.tgz) | 1.8 GiB | `native/linux/x64` |
-| [pigsty-pkg-v4.6.0.d12.aarch64.tgz](https://github.com/Vonng/pigsty/releases/download/v4.6.0/pigsty-pkg-v4.6.0.d12.aarch64.tgz) | 1.6 GiB | `native/linux/arm64` |
-| [pigsty-v4.6.0.tgz](https://github.com/Vonng/pigsty/releases/download/v4.6.0/pigsty-v4.6.0.tgz) | 1.9 MiB | `native/unknown` |
 | [checksums](https://github.com/Vonng/pigsty/releases/download/v4.6.0/checksums) | 999 B | `other` |
-| [pigsty-pkg-v4.6.0.d13.aarch64.tgz](https://github.com/Vonng/pigsty/releases/download/v4.6.0/pigsty-pkg-v4.6.0.d13.aarch64.tgz) | 1.6 GiB | `native/linux/arm64` |
-| [pigsty-pkg-v4.6.0.d13.x86_64.tgz](https://github.com/Vonng/pigsty/releases/download/v4.6.0/pigsty-pkg-v4.6.0.d13.x86_64.tgz) | 1.8 GiB | `native/linux/x64` |
-| [pigsty-pkg-v4.6.0.u22.aarch64.tgz](https://github.com/Vonng/pigsty/releases/download/v4.6.0/pigsty-pkg-v4.6.0.u22.aarch64.tgz) | 1.6 GiB | `native/linux/arm64` |
-| [pigsty-pkg-v4.6.0.u22.x86_64.tgz](https://github.com/Vonng/pigsty/releases/download/v4.6.0/pigsty-pkg-v4.6.0.u22.x86_64.tgz) | 1.8 GiB | `native/linux/x64` |
-| [pigsty-pkg-v4.6.0.u26.aarch64.tgz](https://github.com/Vonng/pigsty/releases/download/v4.6.0/pigsty-pkg-v4.6.0.u26.aarch64.tgz) | 1.6 GiB | `native/linux/arm64` |
-| [pigsty-pkg-v4.6.0.u24.x86_64.tgz](https://github.com/Vonng/pigsty/releases/download/v4.6.0/pigsty-pkg-v4.6.0.u24.x86_64.tgz) | 1.8 GiB | `native/linux/x64` |
-| [pigsty-pkg-v4.6.0.u26.x86_64.tgz](https://github.com/Vonng/pigsty/releases/download/v4.6.0/pigsty-pkg-v4.6.0.u26.x86_64.tgz) | 1.8 GiB | `native/linux/x64` |
-| [pigsty-pkg-v4.6.0.u24.aarch64.tgz](https://github.com/Vonng/pigsty/releases/download/v4.6.0/pigsty-pkg-v4.6.0.u24.aarch64.tgz) | 1.6 GiB | `native/linux/arm64` |
-| [SHA256SUMS](https://github.com/Vonng/pigsty/releases/download/v4.6.0/SHA256SUMS) | 1.7 KiB | `other` |
 | [OFFLINE-NOTES.txt](https://github.com/Vonng/pigsty/releases/download/v4.6.0/OFFLINE-NOTES.txt) | 6.0 KiB | `other` |
 | [PACKAGE-MANIFEST.json](https://github.com/Vonng/pigsty/releases/download/v4.6.0/PACKAGE-MANIFEST.json) | 5.0 MiB | `other` |
+| [pigsty-pkg-v4.6.0.d12.aarch64.tgz](https://github.com/Vonng/pigsty/releases/download/v4.6.0/pigsty-pkg-v4.6.0.d12.aarch64.tgz) | 1.6 GiB | `native/linux/arm64` |
+| [pigsty-pkg-v4.6.0.d12.x86_64.tgz](https://github.com/Vonng/pigsty/releases/download/v4.6.0/pigsty-pkg-v4.6.0.d12.x86_64.tgz) | 1.8 GiB | `native/linux/x64` |
+| [pigsty-pkg-v4.6.0.d13.aarch64.tgz](https://github.com/Vonng/pigsty/releases/download/v4.6.0/pigsty-pkg-v4.6.0.d13.aarch64.tgz) | 1.6 GiB | `native/linux/arm64` |
+| [pigsty-pkg-v4.6.0.d13.x86_64.tgz](https://github.com/Vonng/pigsty/releases/download/v4.6.0/pigsty-pkg-v4.6.0.d13.x86_64.tgz) | 1.8 GiB | `native/linux/x64` |
+| [pigsty-pkg-v4.6.0.el10.aarch64.tgz](https://github.com/Vonng/pigsty/releases/download/v4.6.0/pigsty-pkg-v4.6.0.el10.aarch64.tgz) | 1.8 GiB | `native/linux/arm64` |
+| [pigsty-pkg-v4.6.0.el10.x86_64.tgz](https://github.com/Vonng/pigsty/releases/download/v4.6.0/pigsty-pkg-v4.6.0.el10.x86_64.tgz) | 1.9 GiB | `native/linux/x64` |
+| [pigsty-pkg-v4.6.0.el9.aarch64.tgz](https://github.com/Vonng/pigsty/releases/download/v4.6.0/pigsty-pkg-v4.6.0.el9.aarch64.tgz) | 1.8 GiB | `native/linux/arm64` |
+| [pigsty-pkg-v4.6.0.el9.x86_64.tgz](https://github.com/Vonng/pigsty/releases/download/v4.6.0/pigsty-pkg-v4.6.0.el9.x86_64.tgz) | 1.9 GiB | `native/linux/x64` |
+| [pigsty-pkg-v4.6.0.u22.aarch64.tgz](https://github.com/Vonng/pigsty/releases/download/v4.6.0/pigsty-pkg-v4.6.0.u22.aarch64.tgz) | 1.6 GiB | `native/linux/arm64` |
+| [pigsty-pkg-v4.6.0.u22.x86_64.tgz](https://github.com/Vonng/pigsty/releases/download/v4.6.0/pigsty-pkg-v4.6.0.u22.x86_64.tgz) | 1.8 GiB | `native/linux/x64` |
+| [pigsty-pkg-v4.6.0.u24.aarch64.tgz](https://github.com/Vonng/pigsty/releases/download/v4.6.0/pigsty-pkg-v4.6.0.u24.aarch64.tgz) | 1.6 GiB | `native/linux/arm64` |
+| [pigsty-pkg-v4.6.0.u24.x86_64.tgz](https://github.com/Vonng/pigsty/releases/download/v4.6.0/pigsty-pkg-v4.6.0.u24.x86_64.tgz) | 1.8 GiB | `native/linux/x64` |
+| [pigsty-pkg-v4.6.0.u26.aarch64.tgz](https://github.com/Vonng/pigsty/releases/download/v4.6.0/pigsty-pkg-v4.6.0.u26.aarch64.tgz) | 1.6 GiB | `native/linux/arm64` |
+| [pigsty-pkg-v4.6.0.u26.x86_64.tgz](https://github.com/Vonng/pigsty/releases/download/v4.6.0/pigsty-pkg-v4.6.0.u26.x86_64.tgz) | 1.8 GiB | `native/linux/x64` |
+| [pigsty-v4.6.0.tgz](https://github.com/Vonng/pigsty/releases/download/v4.6.0/pigsty-v4.6.0.tgz) | 1.9 MiB | `native/unknown` |
+| [SHA256SUMS](https://github.com/Vonng/pigsty/releases/download/v4.6.0/SHA256SUMS) | 1.7 KiB | `other` |
 
 ## Improve this data
 
@@ -88,4 +88,4 @@ Install metadata for pigsty lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T08:37:47Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T08:21:41Z._
