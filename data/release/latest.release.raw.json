@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 999,
       "digest": "sha256:447b80cca856a5c93d97007726a688108e7977b6169599929eb7746b1b7c467d",
-      "download_count": 15,
+      "download_count": 18,
       "created_at": "2026-11-13T02:08:01Z",
       "updated_at": "2026-11-13T02:20:58Z",
       "browser_download_url": "https://github.com/pgsty/pigsty/releases/download/v4.6.0/checksums"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 6131,
       "digest": "sha256:1aeeef35a126328afe1a936caaeb405d8f5e1d61180698cedbb195c35aa7b166",
-      "download_count": 24,
+      "download_count": 26,
       "created_at": "2026-11-13T04:02:56Z",
       "updated_at": "2026-11-13T04:02:57Z",
       "browser_download_url": "https://github.com/pgsty/pigsty/releases/download/v4.6.0/OFFLINE-NOTES.txt"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 5271206,
       "digest": "sha256:650bf8bbc70377754a94b02863be5abd90072963469ba48c1ca228bbcf8a4cb0",
-      "download_count": 39,
+      "download_count": 40,
       "created_at": "2026-11-13T04:02:57Z",
       "updated_at": "2026-11-13T04:02:59Z",
       "browser_download_url": "https://github.com/pgsty/pigsty/releases/download/v4.6.0/PACKAGE-MANIFEST.json"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 1716638143,
       "digest": "sha256:5123f75bdb3a4b22377151ba0b506de20fb268476b6606b63f05a200c9daae2d",
-      "download_count": 17,
+      "download_count": 20,
       "created_at": "2026-11-13T02:07:14Z",
       "updated_at": "2026-11-13T02:20:02Z",
       "browser_download_url": "https://github.com/pgsty/pigsty/releases/download/v4.6.0/pigsty-pkg-v4.6.0.d12.aarch64.tgz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 1882783223,
       "digest": "sha256:c51f739120c6b7211116aa74271f121e81ba3dfff6bd590843e3d68292b63f5d",
-      "download_count": 13,
+      "download_count": 20,
       "created_at": "2026-11-13T02:07:01Z",
       "updated_at": "2026-11-13T02:20:29Z",
       "browser_download_url": "https://github.com/pgsty/pigsty/releases/download/v4.6.0/pigsty-pkg-v4.6.0.d12.x86_64.tgz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 1744445845,
       "digest": "sha256:dbeb44b62b886dbfd7c02eaf5cb0ece7e12cfc72592429a936980286e4adb0d8",
-      "download_count": 17,
+      "download_count": 21,
       "created_at": "2026-11-13T02:08:36Z",
       "updated_at": "2026-11-13T02:20:04Z",
       "browser_download_url": "https://github.com/pgsty/pigsty/releases/download/v4.6.0/pigsty-pkg-v4.6.0.d13.aarch64.tgz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 1912706180,
       "digest": "sha256:944e618e1937c02ad1152fe4c724a1a96443fe9d5ad802ff7eef5f33161f3afb",
-      "download_count": 25,
+      "download_count": 29,
       "created_at": "2026-11-13T02:09:05Z",
       "updated_at": "2026-11-13T02:20:33Z",
       "browser_download_url": "https://github.com/pgsty/pigsty/releases/download/v4.6.0/pigsty-pkg-v4.6.0.d13.x86_64.tgz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 1926905143,
       "digest": "sha256:52962e8009474de7c8a069e67c10c912d84677f2d8340399b7ebcf2737b478fe",
-      "download_count": 9,
+      "download_count": 17,
       "created_at": "2026-11-13T02:04:44Z",
       "updated_at": "2026-11-13T02:19:59Z",
       "browser_download_url": "https://github.com/pgsty/pigsty/releases/download/v4.6.0/pigsty-pkg-v4.6.0.el10.aarch64.tgz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 2085109882,
       "digest": "sha256:76fa3ecf8d125d364b06f3f4a0a2f309eed7629107f746be911e1f21a7455fc5",
-      "download_count": 18,
+      "download_count": 21,
       "created_at": "2026-11-13T02:03:30Z",
       "updated_at": "2026-11-13T02:20:24Z",
       "browser_download_url": "https://github.com/pgsty/pigsty/releases/download/v4.6.0/pigsty-pkg-v4.6.0.el10.x86_64.tgz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 1905641285,
       "digest": "sha256:6d3c485614769109d88517f57a0fb0e784f9490fb8c72d0d275c5a6d5f2f0751",
-      "download_count": 16,
+      "download_count": 19,
       "created_at": "2026-11-13T02:04:43Z",
       "updated_at": "2026-11-13T02:19:55Z",
       "browser_download_url": "https://github.com/pgsty/pigsty/releases/download/v4.6.0/pigsty-pkg-v4.6.0.el9.aarch64.tgz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 2057910899,
       "digest": "sha256:3eb0b2a99ab80d33d63d218127bd43661153c6ae40e7769ad4b2716f7693ecbc",
-      "download_count": 59,
+      "download_count": 63,
       "created_at": "2026-11-13T02:03:32Z",
       "updated_at": "2026-11-13T02:20:21Z",
       "browser_download_url": "https://github.com/pgsty/pigsty/releases/download/v4.6.0/pigsty-pkg-v4.6.0.el9.x86_64.tgz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 1751315099,
       "digest": "sha256:4679e76717e8663f8f559cc87b159bd253fb054fab878c757debbedb4ede2a05",
-      "download_count": 7,
+      "download_count": 11,
       "created_at": "2026-11-13T02:09:16Z",
       "updated_at": "2026-11-13T02:20:08Z",
       "browser_download_url": "https://github.com/pgsty/pigsty/releases/download/v4.6.0/pigsty-pkg-v4.6.0.u22.aarch64.tgz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 1894849086,
       "digest": "sha256:54555397b932a2a144b0947386a0a1456159f0fc9159fbb282a38356ef88f41e",
-      "download_count": 20,
+      "download_count": 25,
       "created_at": "2026-11-13T02:10:17Z",
       "updated_at": "2026-11-13T02:20:37Z",
       "browser_download_url": "https://github.com/pgsty/pigsty/releases/download/v4.6.0/pigsty-pkg-v4.6.0.u22.x86_64.tgz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 1760213776,
       "digest": "sha256:fab1273613875a0a24855dc8cf19547ce2b7e9112e0249b4dd56a86393f715c0",
-      "download_count": 18,
+      "download_count": 22,
       "created_at": "2026-11-13T02:16:04Z",
       "updated_at": "2026-11-13T02:20:11Z",
       "browser_download_url": "https://github.com/pgsty/pigsty/releases/download/v4.6.0/pigsty-pkg-v4.6.0.u24.aarch64.tgz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 1904335849,
       "digest": "sha256:cc99f29ca9af7b74087c303443679c839d3a3d2b3fd845da766a466752e2deac",
-      "download_count": 22,
+      "download_count": 26,
       "created_at": "2026-11-13T02:13:21Z",
       "updated_at": "2026-11-13T02:20:41Z",
       "browser_download_url": "https://github.com/pgsty/pigsty/releases/download/v4.6.0/pigsty-pkg-v4.6.0.u24.x86_64.tgz"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 1770903804,
       "digest": "sha256:60f47b4b0a9ae1747dded000aefbae5ea25cfcc9d4b29fb3c3fd2e3123faae6b",
-      "download_count": 9,
+      "download_count": 13,
       "created_at": "2026-11-13T02:12:15Z",
       "updated_at": "2026-11-13T02:20:17Z",
       "browser_download_url": "https://github.com/pgsty/pigsty/releases/download/v4.6.0/pigsty-pkg-v4.6.0.u26.aarch64.tgz"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 1913466888,
       "digest": "sha256:1729448fe38f6fc439b5120c03248f759c7d373ec0ac6fe8abe2c938d051fd4c",
-      "download_count": 21,
+      "download_count": 25,
       "created_at": "2026-11-13T02:15:58Z",
       "updated_at": "2026-11-13T02:20:45Z",
       "browser_download_url": "https://github.com/pgsty/pigsty/releases/download/v4.6.0/pigsty-pkg-v4.6.0.u26.x86_64.tgz"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 1974056,
       "digest": "sha256:6b4a54b52c23bb56753d5d7352582a0a5f78339c12535a56ad263c16f6dca21b",
-      "download_count": 77,
+      "download_count": 83,
       "created_at": "2026-11-13T02:07:55Z",
       "updated_at": "2026-11-13T02:20:49Z",
       "browser_download_url": "https://github.com/pgsty/pigsty/releases/download/v4.6.0/pigsty-v4.6.0.tgz"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 1727,
       "digest": "sha256:1cadbae1493e826749c4b929884149f90bac624bc0eac57b2c326424b7f8d777",
-      "download_count": 23,
+      "download_count": 25,
       "created_at": "2026-11-13T04:02:56Z",
       "updated_at": "2026-11-13T04:02:57Z",
       "browser_download_url": "https://github.com/pgsty/pigsty/releases/download/v4.6.0/SHA256SUMS"
